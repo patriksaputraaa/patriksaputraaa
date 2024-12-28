@@ -7,7 +7,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=patriksaputraaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=350px)
-![](https://github-readme-streak-stats.herokuapp.com/?user=patriksaputraaa&theme=dark&hide_border=false&card_width=450px)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=patriksaputraaa&theme=dark&hide_border=false&card_width=400px)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patriksaputraaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
